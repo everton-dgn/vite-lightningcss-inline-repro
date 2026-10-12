@@ -1,0 +1,8 @@
+.badge {
+  display: inline-flex;
+  padding: 12px 24px;
+  border: 2px solid black;
+  border-radius: 40px;
+  background: lightgray;
+  text-transform: uppercase;
+}
